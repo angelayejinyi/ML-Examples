@@ -1,2 +1,2 @@
-# HW1: KNN
+# KNN
 This repository contains HW1 of DSCI 552, which covers KNN model.
